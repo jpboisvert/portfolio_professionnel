@@ -83,7 +83,7 @@ footer {
 }
 
 #jump_start {
-    background: url('images/points.png'), center url('images/jump-start.png');
+    background: url('images/jump_start.png'), center url('images/jump_start.png');
     background-size: cover;
     height: 100vh;
     color: white;
@@ -131,7 +131,7 @@ footer {
 }
 
 .projet-a {
-    background: center url('images/jump-start.png');
+    background: url('images/citation.jpg');
     background-size: cover;
 }
 .projet-b {
